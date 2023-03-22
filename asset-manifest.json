@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/comut-viz-app/static/css/main.c4e95d45.css",
-    "main.js": "/comut-viz-app/static/js/main.128b2209.js",
+    "main.css": "/comut-viz-app/static/css/main.4aa56ebf.css",
+    "main.js": "/comut-viz-app/static/js/main.5d35751f.js",
     "static/js/787.26a1b9cd.chunk.js": "/comut-viz-app/static/js/787.26a1b9cd.chunk.js",
     "index.html": "/comut-viz-app/index.html",
-    "main.c4e95d45.css.map": "/comut-viz-app/static/css/main.c4e95d45.css.map",
-    "main.128b2209.js.map": "/comut-viz-app/static/js/main.128b2209.js.map",
+    "main.4aa56ebf.css.map": "/comut-viz-app/static/css/main.4aa56ebf.css.map",
+    "main.5d35751f.js.map": "/comut-viz-app/static/js/main.5d35751f.js.map",
     "787.26a1b9cd.chunk.js.map": "/comut-viz-app/static/js/787.26a1b9cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4e95d45.css",
-    "static/js/main.128b2209.js"
+    "static/css/main.4aa56ebf.css",
+    "static/js/main.5d35751f.js"
   ]
 }
